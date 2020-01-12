@@ -19,4 +19,5 @@ Instructions:
 
 __________________________________________
 if for some reason you press T and the script does not activate do steps 4 to 8 again and if it does not work then you are doing something wrong
+you will have to repeat steps 4 to 8 once you die
 __________________________________________
